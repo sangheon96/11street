@@ -18,7 +18,8 @@ Features include:
   - Add, edit, delete users
   - Approve, unapprove, delete comments
   - Add, edit categories
-
+  - Dynamic graph for # of users, posts, categories, etc
+  - See how many users are online instantly
 - Main page
   - Log in and Log out
   - Posts divided into categories
