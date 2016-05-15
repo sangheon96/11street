@@ -5,7 +5,7 @@ Used Xampp server and MYSQLI from phpmyadmin in localhost to run PHP
 This site has all the features that popular CMS sites have.
 
 Features include:
-- Authentication
+- Authentication with password encryption
   - admin
   - subscriber
 - Dynamic navigation
