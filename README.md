@@ -24,6 +24,8 @@ Features include:
   - Log in and Log out
   - Posts divided into categories
   - Post comments for each post
+  - Search for posts
+  - Widget (not finished)
   
 Launching the site soon...
 
