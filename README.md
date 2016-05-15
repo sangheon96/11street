@@ -20,4 +20,9 @@ Features include:
   - Add, edit categories
 
 - Main page
+  - Log in and Log out
+  - Posts divided into categories
+  - Post comments for each post
+  
+Launching the site soon...
 
