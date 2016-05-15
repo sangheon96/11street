@@ -20,7 +20,7 @@ Features include:
   - Add, edit categories
   - Dynamic graph for # of users, posts, categories, etc
   - See how many users are online instantly
-- Main page
+- Subscriber page
   - Log in and Log out
   - Posts divided into categories
   - Post comments for each post
