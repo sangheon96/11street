@@ -27,5 +27,5 @@ Features include:
   - Search for posts
   - Widget (not finished)
   
-Launching the site soon...
+Visit here: http://79.170.44.203/primssoko11.com/CMS/
 
